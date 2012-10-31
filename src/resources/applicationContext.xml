@@ -10,5 +10,8 @@
 	</bean>
 	<bean id="velocityEngine" 
 		class="org.springframework.ui.velocity.VelocityEngineFactoryBean">
-	</bean>	
+	</bean>
+
+    <bean id="mbeanServer" class="org.springframework.jmx.support.MBeanServerFactoryBean"/>
+
 </beans>

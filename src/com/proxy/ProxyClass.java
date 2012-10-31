@@ -20,7 +20,7 @@ public class ProxyClass implements InvocationHandler {
 	private static final VelocityEngine vEngine = (VelocityEngine)
        ((new ClassPathXmlApplicationContext("resources/applicationContext.xml")).
        getBean("velocityEngine"));
-	@Override
+
 	public Object invoke(Object proxy, Method method, Object[] args)
 			throws Throwable {
 		Object result = null;
