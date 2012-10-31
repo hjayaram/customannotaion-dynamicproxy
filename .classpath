@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/springframework/springframework/spring-2.0.7.jar" sourcepath="/home/hjayaram/.savant_cache/springframework/springframework/spring-src-2.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/apache/commons/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/apache/commons/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/objectweb/asm/asm-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/objectweb/asm/asm-attrs-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/objectweb/asm/asm-commons-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/apache/commons/commons-attributes-api-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/apache/commons/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/home/hjayaram/codebases/rakumars-bop/.savant_repository/apache/commons/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/velocity-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
