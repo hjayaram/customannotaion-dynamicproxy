@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProxyTest.iml" filepath="$PROJECT_DIR$/ProxyTest.iml" />
+      <module fileurl="file:///usr/local/tomcat5/webapps/Spring-Binder/Spring-Binder.iml" filepath="/usr/local/tomcat5/webapps/Spring-Binder/Spring-Binder.iml" />
     </modules>
   </component>
 </project>
