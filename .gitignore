@@ -1,0 +1,14 @@
+.classpath
+.project
+.gradle
+.settings
+.st_env_cache
+/bin
+/build
+*.iml
+*.ipr
+*.iws
+*.class
+*.swp
+*.pyc
+*.jar
