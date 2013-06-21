@@ -1,0 +1,23 @@
+Sample implementation of java custom annotation backed by dynamic proxy
+
+Prerequisites:
+    * Jdk1.5  or above
+
+Details given in 
+http://hjayaram.blogspot.com/2012/10/provide-runtime-implementation-for-java.html
+
+IDE used: Eclipse 3.4.2
+
+Spring version used : 2.0.7
+
+Jars required:
+	spring-2.0.7.jar
+	commons-lang-2.4.jar
+	commons-dbcp-1.2.1.jar
+	asm-2.2.3.jar
+	asm-attrs-2.2.3.jar
+	asm-commons-2.2.3.jar
+	commons-attributes-api-2.1.jar
+	commons-collections-3.2.jar
+	commons-logging-1.1.1.jar
+	velocity-1.4.jar
